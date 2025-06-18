@@ -43,4 +43,3 @@ def get_goals_in_range(x, y):
             ret.append(goal)
 
     return ret
-

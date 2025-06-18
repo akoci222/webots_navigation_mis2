@@ -50,7 +50,7 @@ while (robot.step(timestep) != -1):
     if command is not None:
         print(f'Got command: {command}')
 
-    # print('The robot is next to', get_goals_in_range(*gps.getValues()[0:2]))
+    #print('The robot is next to', get_goals_in_range(*gps.getValues()[0:2]))
     
 
 
